@@ -1,0 +1,32 @@
+Done
+        Took 22689 readings over 1000ms.
+        Measured duty factor of 50.55%, average of 1.67V.
+
+Second phase:
+        Taking readings... Done
+        Took 19761 readings over 1000ms.
+        Measured analog average of 0.65V, equivalent duty factor of 19.8%.
+The difference between the digital and analog duty cycles is 30.76.
+The difference between the digital and analog voltages is 1.01.
+There are 11470 highs and 11219 lows in the initial signal.
+There are 0 analog samples at/above half-scale and 19761 below it.
+
+Emission stopped.
+
+PWM wave being emitted from pin 0 at 9Hz...
+
+First phase:
+        Taking readings... Done
+        Took 22697 readings over 1000ms.
+        Measured duty factor of 49.99%, average of 1.65V.
+
+Second phase:
+        Taking readings... Done
+        Took 19761 readings over 1000ms.
+        Measured analog average of 0.65V, equivalent duty factor of 19.8%.
+The difference between the digital and analog duty cycles is 30.19.
+The difference between the digital and analog voltages is 1.0.
+There are 11346 highs and 11351 lows in the initial signal.
+There are 0 analog samples at/above half-scale and 19761 below it.
+
+Emission stopped.
